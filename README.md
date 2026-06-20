@@ -22,8 +22,6 @@ This project analyzes sales performance using Power BI.
 3. Tracked monthly revenue growth.
 4. Compared category performance.
 
-## Dashboard Preview
-(Add Screenshot Here)
 
 ## Author
 Sarthak Kulkarni
